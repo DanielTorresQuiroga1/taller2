@@ -1,0 +1,6 @@
+La biblioteca readchar es muy sencilla y directa. Su propósito principal es leer un solo carácter del teclado sin necesidad de que el usuario presione "Enter".
+
+Uso básico:
+Leer un carácter
+
+leer teclas especiales 
